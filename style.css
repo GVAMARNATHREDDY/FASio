@@ -1079,6 +1079,10 @@ footer .copyright{
     font-size: 13px;
 }
 
+input[type='number' i] {
+    text-align: center;
+}
+
 
 
 
